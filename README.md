@@ -33,6 +33,7 @@ Spring Security provides a robust security framework for controlling authenticat
 JPA and Hibernate represent the BroadleafCommerce ORM infrastructure for 
 controlling persistence of our rich domain model.
 
+
 ### Search
 Flexible domain search capabilities in BroadleafCommerce are provided through integration
 with Solr.
